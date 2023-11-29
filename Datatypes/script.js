@@ -39,5 +39,5 @@ const kilo=prompt("Enter distance in kilometers");
     console.log(res);
  }
 
- addNum(cd);
+ addNum(num1,num2);
  
