@@ -18,8 +18,8 @@ const kilo=prompt("Enter distance in kilometers");
 
  //Question-3:    WAP to input two numbers and perform arithmetic operations on those numbers.
 
- let num1=prompt("Enter a number1");
- let num2=prompt("Enter a number2");
+//  let num1=prompt("Enter a number1");
+//  let num2=prompt("Enter a number2");
  let res;
 
  function addNum(num1,num2){
@@ -39,5 +39,12 @@ const kilo=prompt("Enter distance in kilometers");
     console.log(res);
  }
 
- addNum(num1,num2);
- 
+ //addNum(num1,num2);
+
+// WAP to calculate total marks in two subject and then calculate percentage.
+ let maths=93;
+ let english=99;
+
+ const totalMarks=maths+english;
+ const percentage=(totalMarks/2)
+ console.log(percentage);
