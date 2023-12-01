@@ -42,9 +42,18 @@ const kilo=prompt("Enter distance in kilometers");
  //addNum(num1,num2);
 
 // WAP to calculate total marks in two subject and then calculate percentage.
- let maths=93;
- let english=99;
+            // let maths=93;
+            // let english=99;
 
- const totalMarks=maths+english;
- const percentage=(totalMarks/2)
- console.log(percentage);
+            // const totalMarks=maths+english;
+            // const percentage=(totalMarks/2)
+            // console.log(percentage);
+
+//WAP to input the length and breath of rectangle and calculate the area and parimeter of rectangle.    
+
+                                 // let length=20;
+                                 // let breadth=30;
+
+                                 // let areaRect=length*breadth;
+                                 // console.log(areaRect);
+//WAP to input n numbers and log the average of those number.
