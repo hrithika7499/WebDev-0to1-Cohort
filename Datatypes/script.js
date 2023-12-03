@@ -57,3 +57,9 @@ const kilo=prompt("Enter distance in kilometers");
                                  // let areaRect=length*breadth;
                                  // console.log(areaRect);
 //WAP to input n numbers and log the average of those number.
+let arr=[2,3,4,6,8,55];
+for(let i=0;i<arr.length;i++){
+    if(arr[i]%2 === 0){
+        console.log(arr[i])
+    }
+}

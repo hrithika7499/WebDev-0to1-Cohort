@@ -49,6 +49,11 @@
 const username="Mahendra Singh Dhoni";
 if(username.length <6){
     console.log("Ahh too short name to win ICC trophies")
+}else if(username.length>25){
+    console.log("Nahh too more to win icc trophies");
+}
+else{
+    console.log("Accepted Thalaaaa")
 }
 
 
